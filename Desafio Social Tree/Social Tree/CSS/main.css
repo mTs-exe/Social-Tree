@@ -1,0 +1,33 @@
+:root {
+  --body-bg-color: #FAF7FD;
+  --purple: #BB99DD;
+}
+
+p{
+  border: solid #bb99dd;
+  padding: 20px;
+  margin-left: 40%;
+  margin-right: 40%;
+  font-family: 'Poppins', sans-serif;
+  color: #BB99DD;
+
+}
+
+div{
+  font-family: 'Poppins', sans-serif;
+
+  color: #BB99DD
+}
+
+
+body {
+  text-align: center;
+}
+
+img {
+  border: 7px solid #bb99dd;
+  border-radius: 50%;
+}
+
+
+
